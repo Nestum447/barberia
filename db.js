@@ -2,10 +2,10 @@
 const services = [
     {
         id: 1,
-        name: "Corte Clásico",
-        description: "Corte tradicional de barbería con tijera y máquina, incluye acabado con navaja.",
-        price: 25,
-        duration: "30 min",
+        name: "👨‍💼 Servicios de Consultoría Empresarial"
+        description: "Optimización de procesos y logística",
+        price: 2500,
+        duration: "3 Semanas",
         image: "https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
     },
     {
