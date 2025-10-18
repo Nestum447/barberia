@@ -6,7 +6,7 @@ const services = [
         description: "Optimización de procesos y logística, Diagnóstico, rediseño de flujos, reducción de tiempos, costos y mejora de almacenes e inventarios.",
         price: 2500,
         duration: "5 semanas ",
-        image: "https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+        image: "https://www.freepik.com/free-vector/gradient-halftone-technology-infographic_20722505.htm#fromView=keyword&page=1&position=2&uuid=f04eef96-fced-40b2-aeb2-2ae21ef8721f&query=Technology+infographics"
     },
     {
         id: 2,
