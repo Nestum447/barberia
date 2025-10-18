@@ -3,7 +3,9 @@ const services = [
     {
         id: 1,
         name: "Consultoría Empresarial",
-        description: "Optimización de procesos y logística, Diagnóstico, rediseño de flujos, reducción de tiempos, costos y mejora de Operaciones, almacenes e inventarios. Caso de estudio: <a href="https://github.com/Nestum447/layoutwarehouse" target="_blank">Ver en GitHub</a>",
+        description: `Optimización de procesos y logística, Diagnóstico, rediseño de flujos, reducción de tiempos, costos y mejora de Operaciones, almacenes e inventarios. 
+      Caso de estudio: <a href="https://github.com/Nestum447/layoutwarehouse" target="_blank">Ver en GitHub</a>
+    `,
         price: 2500,
         duration: "5 semanas ",   
         image: "https://plus.unsplash.com/premium_photo-1720610706902-f92d98fb8b35?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1374"
