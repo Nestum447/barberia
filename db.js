@@ -99,7 +99,7 @@ const galleryImages = [
         alt: "Corte de cabello con diseño"
     },
     {
-        url: "https://images.unsplash.com/photo-1567894340315-735d7c361db0?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+        url: "https://raw.githubusercontent.com/Nestum447/barberia/refs/heads/main/Fotos/Precios.jpg",
       title: "Diagrama de flujo",
         description: "Diseño de flujos optimizado",
         
