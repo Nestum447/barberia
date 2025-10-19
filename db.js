@@ -27,7 +27,7 @@ const services = [
         description: "Rentabilidad, costos, flujo de caja, cuentas financieras",
         price: 20,
         duration: "30 min",
-        image: "https://unsplash.com/es/fotos/un-robot-sosteniendo-un-signo-de-dolar-en-la-mano-1gf8BVYmy90"
+        image: "https://plus.unsplash.com/premium_photo-1676637656277-498f73258bec?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1332"
     },
     {
         id: 4,
