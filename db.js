@@ -19,7 +19,7 @@ const services = [
         description: "Un dashboard convierte datos en decisiones inteligentes. Visualizar, Analizar y tomar decisiones rápidamente a partir de datos. Aplicado a Operaciones, Producción, Ventas o calidad.",
         price: 30,
         duration: "45 min",
-        image: "https://images.unsplash.com/photo-1503951914875-452162b0f3f1?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+        image: "https://images.unsplash.com/photo-1551288049-bebda4e38f71?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1170"
     },
     {
         id: 3,
