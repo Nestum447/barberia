@@ -92,7 +92,7 @@ const galleryImages = [
         alt: "Estilo de barba cuidado"
     },
     {
-        url: "https://images.unsplash.com/photo-1595475884562-073c30d45670?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+        url: "https://raw.githubusercontent.com/Nestum447/barberia/refs/heads/main/Racks.jpg",
       title: "Diagrama de flujo",
         description: "Diseño de flujos optimizado", 
         
