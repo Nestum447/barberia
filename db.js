@@ -85,7 +85,7 @@ const galleryImages = [
         alt: "Barbero trabajando en cliente"
     },
     {
-        url: "https://images.unsplash.com/photo-1519500528352-2d1460418d41?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+        url: "https://raw.githubusercontent.com/Nestum447/barberia/refs/heads/main/Casa.jpg",
      title: "Diagrama de flujo",
         description: "Diseño de flujos optimizado",  
         
