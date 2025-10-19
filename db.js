@@ -119,7 +119,7 @@ const teamMembers = [
     {
         name: "Nestor Carpio",
         position: "Fundador",
-        image: "https://images.unsplash.com/photo-1544161515-4ab6ce6db874?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+        image: "https://raw.githubusercontent.com/Nestum447/barberia/refs/heads/main/Fotos/Nestor.jpg"
     },
     {
         name: "Wilmar Portillo",
