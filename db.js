@@ -39,11 +39,11 @@ const services = [
     },
     {
         id: 5,
-        name: "Corte y Barba",
-        description: "Combo completo de corte de cabello y tratamiento de barba.",
+        name: "Digitalizamos procesos y automatizamos reportes con Python, basic y machine learning transformando tareas repetitivas en soluciones inteligentes”",
+        description: "Llevamos la eficiencia al siguiente nivel mediante la digitalización de procesos y la automatización inteligente de tareas y reportes con Python, visual basic y machine learning. Implementamos soluciones que eliminan errores manuales, reducen tiempos operativos y permiten decisiones basadas en datos en tiempo real.",
         price: 40,
         duration: "60 min",
-        image: "https://images.unsplash.com/photo-1605497788044-5a32c7078486?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+        image: "https://images.unsplash.com/photo-1561557944-6e7860d1a7eb?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1287"
     },
     {
         id: 6,
