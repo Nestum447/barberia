@@ -106,7 +106,7 @@ const galleryImages = [
         alt: "Barbero usando navaja"
     },
     {
-        url: "https://images.unsplash.com/photo-1600334129128-685c5582fd35?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+        url: "https://raw.githubusercontent.com/Nestum447/barberia/refs/heads/main/Fotos/Qlearning.jpg",
      title: "Diagrama de flujo",
         description: "Diseño de flujos optimizado",
         
@@ -117,18 +117,18 @@ const galleryImages = [
 // Miembros del equipo
 const teamMembers = [
     {
-        name: "Carlos Méndez",
-        position: "Barbero Principal",
+        name: "Nestor Carpio",
+        position: "Fundador",
         image: "https://images.unsplash.com/photo-1544161515-4ab6ce6db874?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
     },
     {
-        name: "Javier López",
-        position: "Especialista en Barbas",
+        name: "Wilmar Portillo",
+        position: "Fundador Especialista",
         image: "https://images.unsplash.com/photo-1552374196-c4e7ffc6e126?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
     },
     {
-        name: "Miguel Ángel",
-        position: "Estilista",
+        name: "Jimmy Rivas ",
+        position: "Fundador",
         image: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
     }
 ];
