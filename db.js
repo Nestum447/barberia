@@ -15,7 +15,7 @@ const services = [
     },
     {
         id: 2,
-        name: "Diseño de indicadores y dashboards (Power BI / Excel),",
+        name: "Diseño de indicadores y dashboard con analisis de Inteligencia artificial,",
         description: "Un dashboard convierte datos en decisiones inteligentes. Visualizar, Analizar y tomar decisiones rápidamente a partir de datos. Aplicado a Operaciones, Producción, Ventas o calidad.",
         price: 30,
         duration: "45 min",
