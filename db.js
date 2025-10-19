@@ -59,12 +59,12 @@ const services = [
 const galleryImages = [
     {
         url: "https://raw.githubusercontent.com/Nestum447/barberia/refs/heads/main/20241021_174018.jpg",
-        title: "Diseño de flujos optimizado",
+        description: "Diseño de flujos optimizado",
         alt: "Corte de cabello estilo moderno"
     },
     {
         url: "https://raw.githubusercontent.com/Nestum447/barberia/refs/heads/main/Layout.jpg",
-        title: "Layout Interactivo",
+        description: "Layout Interactivo",
         alt: "Afeitado tradicional en barbería"
 
     },
