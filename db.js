@@ -31,8 +31,8 @@ const services = [
     },
     {
         id: 4,
-        name: "Implementacion de Mejora continua con metodologías Lean, Kaizen y Six Sigma",
-        description: "Impulsamos la mejora continua con metodologías Lean, Kaizen y Six Sigma, combinando análisis de datos y tecnología para optimizar procesos, reducir costos y maximizar la rentabilidad en toda la organización",
+        name: "Implementacion de Tecnologia de la informacion y Mejora continua con metodologías Lean, Kaizen y Six Sigma",
+        description: "Integramos la TI y mejora continua con metodologías Lean, Kaizen y Six Sigma, combinando análisis de datos y tecnología para optimizar procesos, reducir costos y maximizar la rentabilidad en toda la organización",
         price: 18,
         duration: "25 min",
         image: "https://plus.unsplash.com/premium_photo-1661443598082-afd740d6d07c?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1289"
