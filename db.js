@@ -23,11 +23,11 @@ const services = [
     },
     {
         id: 3,
-        name: "Afeitado Clásico",
-        description: "Afeitado tradicional con toallas calientes y productos premium.",
+        name: "Inteligencia Artificial (IA) en gestión financiera y control interno",
+        description: "Rentabilidad, costos, flujo de caja, cuentas financieras",
         price: 20,
         duration: "30 min",
-        image: "https://images.unsplash.com/photo-1595476108010-b4d1f102b1b1?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+        image: "https://unsplash.com/es/fotos/un-robot-sosteniendo-un-signo-de-dolar-en-la-mano-1gf8BVYmy90"
     },
     {
         id: 4,
