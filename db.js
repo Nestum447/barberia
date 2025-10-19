@@ -64,7 +64,7 @@ const galleryImages = [
     {
         url: "https://raw.githubusercontent.com/Nestum447/barberia/refs/heads/main/Layout.jpg",
         alt: "Afeitado tradicional en barbería"
-        name: "Layout Interactivo"
+
     },
     {
         url: "https://images.unsplash.com/photo-1599351431202-1e0f0137899a?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
