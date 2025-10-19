@@ -72,26 +72,44 @@ const galleryImages = [
     },
     {
         url: "https://images.unsplash.com/photo-1599351431202-1e0f0137899a?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+        title: "Diagrama de flujo",
+        description: "Diseño de flujos optimizado",
+        
         alt: "Tratamiento de barba profesional"
     },
     {
         url: "https://images.unsplash.com/photo-1585747860715-2ba37e788b70?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+       title: "Diagrama de flujo",
+        description: "Diseño de flujos optimizado",
+        
         alt: "Barbero trabajando en cliente"
     },
     {
         url: "https://images.unsplash.com/photo-1519500528352-2d1460418d41?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+     title: "Diagrama de flujo",
+        description: "Diseño de flujos optimizado",  
+        
         alt: "Estilo de barba cuidado"
     },
     {
         url: "https://images.unsplash.com/photo-1595475884562-073c30d45670?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      title: "Diagrama de flujo",
+        description: "Diseño de flujos optimizado", 
+        
         alt: "Corte de cabello con diseño"
     },
     {
         url: "https://images.unsplash.com/photo-1567894340315-735d7c361db0?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      title: "Diagrama de flujo",
+        description: "Diseño de flujos optimizado",
+        
         alt: "Barbero usando navaja"
     },
     {
         url: "https://images.unsplash.com/photo-1600334129128-685c5582fd35?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+     title: "Diagrama de flujo",
+        description: "Diseño de flujos optimizado",
+        
         alt: "Productos de barbería"
     }
 ];
