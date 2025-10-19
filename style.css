@@ -263,7 +263,7 @@ header.scrolled {
     background-color: var(--light-gray);
 }
 
-.gallery-title {
+.image-title {
     font-weight: bold;
     margin: 5px 0 2px 0;
 }
