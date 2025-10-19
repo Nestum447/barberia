@@ -47,11 +47,11 @@ const services = [
     },
     {
         id: 6,
-        name: "Tinte para Cabello",
-        description: "Aplicación profesional de tinte para cabello con productos de calidad.",
+        name: "Soluciones Digitales para tu empresa",
+        description: "Aplicaciones web personalizadas.- Sistemas de control de inventario y producción.- Herramientas de predicción y análisis estadístico.- Integración con bases de datos",
         price: 35,
         duration: "45 min",
-        image: "https://images.unsplash.com/photo-1519699047748-de8e457a634e?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+        image: "https://plus.unsplash.com/premium_photo-1668473366952-45f06fbf6492?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1332"
     }
 ];
 
