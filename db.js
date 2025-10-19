@@ -15,8 +15,8 @@ const services = [
     },
     {
         id: 2,
-        name: "Corte Moderno",
-        description: "Corte actual con las últimas tendencias, incluye diseño y acabado premium.",
+        name: "Diseño de indicadores y dashboards (Power BI / Excel),",
+        description: "Un dashboard convierte datos en decisiones inteligentes. Visualizar, Analizar y tomar decisiones rápidamente a partir de datos. Aplicado a Operaciones, Producción, Ventas o calidad.",
         price: 30,
         duration: "45 min",
         image: "https://images.unsplash.com/photo-1503951914875-452162b0f3f1?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
