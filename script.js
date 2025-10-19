@@ -52,6 +52,11 @@ function loadGallery() {
         
         galleryItem.innerHTML = `
             <img src="${image.url}" alt="${image.alt}">
+
+            <h3 class="image-title">${image.title}</h3>
+            <p class="image-description">${image.description}</p>
+
+            
         `;
         
         galleryContainer.appendChild(galleryItem);
